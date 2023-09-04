@@ -4,6 +4,10 @@
 
 Wails template using Qwik as the frontend
 
+## Installing
+
+use `wails init -n myproject -t https://github.com/LazyClicks/wails-qwik-template` and replace *myproject* with your project name
+
 ## Live Development
 
 To run in live development mode, run `wails dev` in the project directory. In another terminal, go into the `frontend`
